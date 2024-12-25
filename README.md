@@ -1,3 +1,21 @@
+# Welcome to SHERM
+
+SHERM is a revolutionary Electronic Health Record Management System. It offers efficient data collection, enhanced diagnosis, and seamless doctor-patient interaction. Our goal is to combat non-communicable diseases through machine learning and advanced technology, improving healthcare for everyone.
+
+## Advanced Analytics
+Leverage data-driven insights for accurate diagnosis and better treatment plans.
+
+## Secure Records
+Ensure patient confidentiality and secure storage of health records.
+
+## For Everyone
+Inclusive design catering to differentially-abled individuals and diverse user needs.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
