@@ -1,0 +1,123 @@
+/* src/App.css */
+/* Background Styling */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZyaG9zcGl0YWxfY29ycmlkb3Jfb3BlcmF0aW5nX3Jvb20taW1hZ2Uta3liZGduaGsuanBn.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: #333;
+  overflow: hidden;
+}
+
+/* Main Container */
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9); /* White semi-transparent background */
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styling */
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  background-color: rgba(0, 100, 250, 0.7); /* Highlighting */
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 2px #000;
+}
+
+/* Button Styling */
+button {
+  display: inline-block;
+  background-color: #007BFF; /* Blue */
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue */
+}
+
+button:active {
+  background-color: #666666; /* Grey when pressed */
+}
+
+/* Input File */
+input[type="file"] {
+  margin-bottom: 20px;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+/* Analysis Section */
+.analysis {
+  margin-top: 20px;
+  line-height: 1.8;
+}
+
+.analysis h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.analysis h3 {
+  margin-top: 20px;
+  color: #0056b3;
+  font-size: 1.3rem;
+}
+
+.analysis ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.analysis li {
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+/*CODE ADDED LATER ^*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+}
+
+.MuiContainer-root {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.MuiTypography-h3 {
+  color: #333;
+}
+
+.chart-section {
+  margin-top: 20px;
+}
